@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aesmail18
-- 👀 I’m interested in embedded systems end iot engineering
-- 🌱 I’m currently learning Trainee at AMIT Learning || Formal Trainee at AMIT learning Siemens || Formal Head of Network Committee at IEEE Al-Azhar || ITI Formal Trainee || Formal Instructor at SPE Al-Azhar (SPE AUSC).
+- 👀 I’m interested in embedded systems and iot engineering
+- 🌱 I’m currently Embedded Software Engineer || Former competitor @ Egypt IoT & AI Challenge || Former Inter Trainee at AMIT learning || Former Trainee at Siemens || Formal Head of Network Committee at IEEE Al-Azhar || ITI Formal Trainee || Formal Instructor at SPE Al-Azhar (SPE AUSC).
 - 💞️ I’m looking to collaborate on any project related to embedded systems.
 - 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/ahmed-esmail-4609a4167/)
 
